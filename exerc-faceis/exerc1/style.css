@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #4476DA;
+    font-size: medium;
+}
+
+.conteudo {
+    background-color: #63CEC7;
+    margin: 120px 120px;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+    box-shadow: 20px 20px rgb(32, 124, 137);
+    
+}
+
+.conteudo li {
+    list-style: none;
+}
+
+#p2 {
+    padding: 55px 55px;
+    font-size: 115%;
+}
+
+#p1 img {
+    width: 250px;
+    margin: 5px;
+}
+
+#p1, #p2 {
+    text-align: center;
+}
+
+p {
+    margin: 20px;
+}
+
